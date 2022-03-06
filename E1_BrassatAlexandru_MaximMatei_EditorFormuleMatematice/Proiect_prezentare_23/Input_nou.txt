@@ -1,0 +1,62 @@
+int inStr[200] = "";
+int asteptare_input()
+{
+    int x,y;
+    if (ismouseclick(WM_LBUTTONDOWN))
+    {
+        clearmouseclick(WM_LBUTTONDOWN);
+        x = mousex();
+        y = mousey();
+        if (x > 10 && x < 90 && y > 10 && y < 60)
+        {
+            return 0;
+        }
+        else if (x > 210 && x < 310 && y > 10 && y < 60 )
+        {
+            caracter_nou(inaltime_ecran,latime_ecran);
+            start_pagina_principala();
+        }
+
+        else if (x > 100 && x < 200 && y > 10 && y < 60) {
+            scrie();
+        }
+
+    }
+    if(kbhit()) {
+        char ch = getch();
+        cout<<(int)ch<<" ";
+        if(ch == 8) //backspace
+                {
+                    if(strlen(inStr)==0) cout<<"cuvant gol!";
+                    else {
+                        setfillstyle(0, WHITE);
+                        bar(25, 175, 740, 200);
+                        inStr[strlen(inStr)-1] = 0;
+                    }
+                }
+        else if (ch == 0) ch = getch(); //arrow keys
+        else if (ch == 13) {
+            int n = strlen(inStr);
+            if (verificare_formula(inStr))
+            {
+                cout <<inStr<<'\n';
+                afisare_form(inStr,1000,1000);
+            }
+        }
+        else /*if(strchr("/+-*()[]{} 0213456789.^#tbdsq",ch))*/ {
+                switch(ch) {
+                    case '^': strcat(inStr,"#t");curPos+=2;
+                            break;
+                    default : {
+                        int s = strlen(inStr);
+                        inStr[s] = ch;
+                        inStr[s+1] = '\0';
+                    }
+                }
+        }
+        outtextxy(30,180,inStr);
+        cout<<"str = "<<inStr<<"\n\n";
+    }
+    return 1;
+
+}

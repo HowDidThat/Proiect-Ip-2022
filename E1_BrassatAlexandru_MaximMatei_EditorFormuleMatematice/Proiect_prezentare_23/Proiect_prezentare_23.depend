@@ -1,0 +1,305 @@
+# depslib dependency file v1.0
+1640593598 source:d:\projects\c++\proiect_prezentare_23\main.cpp
+	<iostream>
+	<string.h>
+	<fstream>
+	<graphics.h>
+	<conio.h>
+	"desenare_caracter_nou.h"
+	"butoane_caractere_speciale.h"
+	"pentru_calcule.h"
+	"afisare_formula.h"
+	"verificare_corectitudine_formula.h"
+
+1640968634 d:\projects\c++\proiect_prezentare_23\desenare_caracter_nou.h
+	<iostream>
+	<string.h>
+	<fstream>
+	<graphics.h>
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+	"s.h"
+
+1641385650 d:\projects\c++\proiect_prezentare_23\butoane_caractere_speciale.h
+	<iostream>
+	<string.h>
+	<fstream>
+	<graphics.h>
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+
+1637865385 d:\projects\c++\proiect_prezentare_23\pentru_calcule.h
+	<iostream>
+	<string.h>
+	<fstream>
+	<graphics.h>
+	<conio.h>
+
+1641415708 d:\projects\c++\proiect_prezentare_23\afisare_formula.h
+	<iostream>
+	<string.h>
+	<fstream>
+	<conio.h>
+	<graphics.h>
+
+1641741085 d:\projects\c++\proiect_prezentare_23\verificare_corectitudine_formula.h
+	<iostream>
+	<string.h>
+	<fstream>
+	<graphics.h>
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+
+1640535538 d:\projects\c++\proiect_prezentare_23\s.h
+	<iostream>
+	<graphics.h>
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+	<fstream>
+	<time.h>
+	<string.h>
+	<typeinfo>
+
+1641415626 source:d:\projects\c++\proiect_prezentare_23\main1.cpp
+	<iostream>
+	<string.h>
+	<fstream>
+	<graphics.h>
+	<conio.h>
+	"desenare_caracter_nou.h"
+	"butoane_caractere_speciale.h"
+	"pentru_calcule.h"
+	"afisare_formula.h"
+	"verificare_corectitudine_formula.h"
+	"alegere_culoare.h"
+
+1641297181 d:\projects\c++\proiect_prezentare_23\alegere_culoare.h
+	<iostream>
+	<string.h>
+	<fstream>
+	<conio.h>
+	<graphics.h>
+
+1641754089 source:c:\users\kebabwarrior\desktop\ds\proiect_prezentare_23\main1.cpp
+	<iostream>
+	<string.h>
+	<fstream>
+	<graphics.h>
+	<conio.h>
+	"desenare_caracter_nou.h"
+	"butoane_caractere_speciale.h"
+	"pentru_calcule.h"
+	"afisare_formula.h"
+	"verificare_corectitudine_formula.h"
+	"alegere_culoare.h"
+
+1641747650 c:\users\kebabwarrior\desktop\ds\proiect_prezentare_23\desenare_caracter_nou.h
+	<iostream>
+	<string.h>
+	<fstream>
+	<graphics.h>
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+	"s.h"
+
+1641747636 c:\users\kebabwarrior\desktop\ds\proiect_prezentare_23\s.h
+	<iostream>
+	<graphics.h>
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+	<fstream>
+	<time.h>
+	<string.h>
+	<typeinfo>
+
+1641754100 c:\users\kebabwarrior\desktop\ds\proiect_prezentare_23\butoane_caractere_speciale.h
+	<iostream>
+	<string.h>
+	<fstream>
+	<graphics.h>
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+
+1637865385 c:\users\kebabwarrior\desktop\ds\proiect_prezentare_23\pentru_calcule.h
+	<iostream>
+	<string.h>
+	<fstream>
+	<graphics.h>
+	<conio.h>
+
+1641753723 c:\users\kebabwarrior\desktop\ds\proiect_prezentare_23\afisare_formula.h
+	<iostream>
+	<string.h>
+	<fstream>
+	<conio.h>
+	<graphics.h>
+
+1641750340 c:\users\kebabwarrior\desktop\ds\proiect_prezentare_23\verificare_corectitudine_formula.h
+	<iostream>
+	<string.h>
+	<fstream>
+	<graphics.h>
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+
+1641747130 c:\users\kebabwarrior\desktop\ds\proiect_prezentare_23\alegere_culoare.h
+	<iostream>
+	<string.h>
+	<fstream>
+	<conio.h>
+	<graphics.h>
+
+1641880071 source:e:\zomboid\proiect_prezentare_23\main1.cpp
+	<iostream>
+	<string.h>
+	<fstream>
+	<graphics.h>
+	<conio.h>
+	"desenare_caracter_nou.h"
+	"butoane_caractere_speciale.h"
+	"pentru_calcule.h"
+	"afisare_formula.h"
+	"verificare_corectitudine_formula.h"
+	"alegere_culoare.h"
+
+1641881677 e:\zomboid\proiect_prezentare_23\desenare_caracter_nou.h
+	<iostream>
+	<string.h>
+	<fstream>
+	<graphics.h>
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+	"s.h"
+
+1641747638 e:\zomboid\proiect_prezentare_23\s.h
+	<iostream>
+	<graphics.h>
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+	<fstream>
+	<time.h>
+	<string.h>
+	<typeinfo>
+
+1641754102 e:\zomboid\proiect_prezentare_23\butoane_caractere_speciale.h
+	<iostream>
+	<string.h>
+	<fstream>
+	<graphics.h>
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+
+1637865386 e:\zomboid\proiect_prezentare_23\pentru_calcule.h
+	<iostream>
+	<string.h>
+	<fstream>
+	<graphics.h>
+	<conio.h>
+
+1641819344 e:\zomboid\proiect_prezentare_23\afisare_formula.h
+	<iostream>
+	<string.h>
+	<fstream>
+	<conio.h>
+	<graphics.h>
+
+1641880002 e:\zomboid\proiect_prezentare_23\verificare_corectitudine_formula.h
+	<iostream>
+	<string.h>
+	<fstream>
+	<graphics.h>
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+
+1641747132 e:\zomboid\proiect_prezentare_23\alegere_culoare.h
+	<iostream>
+	<string.h>
+	<fstream>
+	<conio.h>
+	<graphics.h>
+
+1641985484 source:c:\users\doom\desktop\proiect_prezentare_23\main1.cpp
+	<iostream>
+	<string.h>
+	<fstream>
+	<graphics.h>
+	<conio.h>
+	"desenare_caracter_nou.h"
+	"butoane_caractere_speciale.h"
+	"pentru_calcule.h"
+	"afisare_formula.h"
+	"verificare_corectitudine_formula.h"
+	"alegere_culoare.h"
+
+1641881677 c:\users\doom\desktop\proiect_prezentare_23\desenare_caracter_nou.h
+	<iostream>
+	<string.h>
+	<fstream>
+	<graphics.h>
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+	"s.h"
+
+1641747638 c:\users\doom\desktop\proiect_prezentare_23\s.h
+	<iostream>
+	<graphics.h>
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+	<fstream>
+	<time.h>
+	<string.h>
+	<typeinfo>
+
+1641985608 c:\users\doom\desktop\proiect_prezentare_23\butoane_caractere_speciale.h
+	<iostream>
+	<string.h>
+	<fstream>
+	<graphics.h>
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+
+1637865386 c:\users\doom\desktop\proiect_prezentare_23\pentru_calcule.h
+	<iostream>
+	<string.h>
+	<fstream>
+	<graphics.h>
+	<conio.h>
+
+1641819344 c:\users\doom\desktop\proiect_prezentare_23\afisare_formula.h
+	<iostream>
+	<string.h>
+	<fstream>
+	<conio.h>
+	<graphics.h>
+
+1641880002 c:\users\doom\desktop\proiect_prezentare_23\verificare_corectitudine_formula.h
+	<iostream>
+	<string.h>
+	<fstream>
+	<graphics.h>
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+
+1641747132 c:\users\doom\desktop\proiect_prezentare_23\alegere_culoare.h
+	<iostream>
+	<string.h>
+	<fstream>
+	<conio.h>
+	<graphics.h>
+
